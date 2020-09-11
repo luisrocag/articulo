@@ -7,10 +7,16 @@ diferenciable en $<a,b>$
 - uno
 - dos
 - tres
-* cuatro
+  * cuatro
 ### Listas numeradas
 1. uno
 2. dos
 3. tres
-4. cuatro
+   4. cuatro
 ### Resultados previos
+**Aqui se muestra una imagen**
+
+*Este es otro tipo de fuente*
+
+<img src="" alt="">
+
