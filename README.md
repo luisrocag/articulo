@@ -1,8 +1,8 @@
 # El Teorema de Valor Medio
 ## Resumen
-Dada una funcion ![equation](https://latex.codecogs.com/gif.latex?f%3A%5Cmathbb%7BR%7D%5Cto%Cmathbb%7BR%7D)
- continua en $[a,b]$ y  
-diferenciable en $<a,b>$
+Dada una funcion ![equation](https://latex.codecogs.com/png.latex?f%3A%5Cmathbb%7BR%7D%5Cto%5Cmathbb%7BR%7D)
+ continua en [a,b] y  
+diferenciable en <a,b>.
 ## Introducción
 ### Listas no numeradas
 - uno
@@ -41,4 +41,4 @@ function test() {
 Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
 
 #### Texto matemático
-5![equation](https://latex.codecogs.com/gif.latex?f%3A%5Cmathbb%7BR%7D%5Cto%Cmathbb%7BR%7D)
+5![equation](https://latex.codecogs.com/png.latex?f%3A%5Cmathbb%7BR%7D%5Cto%5Cmathbb%7BR%7D)
